@@ -1,3 +1,3 @@
 pip install --upgrade pip
-pip install -U flask pandas -U scikit-learn
+pip install -r requirements.txt
 python app.py build
