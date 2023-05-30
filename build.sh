@@ -1,2 +1,2 @@
 pip install --upgrade pip
-pip install flask pandas sklearn
+pip install flask pandas scikit-learn
